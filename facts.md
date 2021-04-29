@@ -1,4 +1,6 @@
-**About Android**
+# Google abuse of dominant position: some facts about the Google Android operating system and personal data collection.
+
+## About Android
 
 Android (AOSP) is an open source operating system maintained by Google. In its commercial version, that ships in 80% of the smartphones on the market, “Google Android” includes a proprietary layer called “Google Play Services”.
 
@@ -6,7 +8,7 @@ In the following, we refer to:
 - “Android” when talking about the core open source Android OS (AOSP
 - “Google Android” when talking about the commercial version of Android that ships in most Android smartphones.
 
-**What we found in the Android operating system**
+## What we found in the Android operating system
 
 - DNS (Domain Name Service): Google DNS servers (like 8.8.8.8 and 8.8.4.4) are used by default in Android. This lets Google potentially trace all calls to any internet servers and services from the operating system or applications run by the user.
     “Connectivity Check”: when an Android phone is powered on, a Connectivity Check function is performed as an HTTP request against some Google servers to ensure that Internet access is available in IPv4 and IPv6. This lets Google learn that a Google Android device as been started.
@@ -22,16 +24,12 @@ In the following, we refer to:
 - Gmail emails are not encrypted server side: Google has access to them and implicitely addmits in the GMail Terms of Services that all Gmail contents are analysed automatically.
 - Payment solution: Google Pay by default in Google Android
 
-**Studies on systematic data collection in Google Android**
+## Studies on systematic data collection in Google Android
 
-- One Google Android phone = 12 MB of personal data/day to Google (Apple users are not forgotten: 6MB/day to Google, in exchange for a $13 Billion check per year).
-    “Google Data Collection,” Douglas C. Schmidt, Professor of Computer Science at Vanderbilt University – 2018
-    https://digitalcontentnext.org/blog/2018/08/21/google-data-collection-research/
-- “Even with minimal phone configuration, in standby, both iOS and Google Android share data with Apple/Google, on average every 4.5 minutes” “when a SIM is inserted both iOS and Google Android send details to Apple/Google. Users have no way of escaping this, and to date there are few, if any, realistic alternatives to protect against this information sharing.”
-    Mobile Handset Privacy: Measuring The Data iOS and Android Send to Apple And Google – Professor Doug Leith at School of Computer Science and Statistics at Trinity College Dublin – 2021
-    https://www.scss.tcd.ie/doug.leith/apple_google.pdf
+- One Google Android phone = 12 MB of personal data/day to Google (Apple users are not forgotten: 6MB/day to Google, in exchange for a $13 Billion check per year). “Google Data Collection,” Douglas C. Schmidt, Professor of Computer Science at Vanderbilt University – 2018 https://digitalcontentnext.org/blog/2018/08/21/google-data-collection-research/
+- “Even with minimal phone configuration, in standby, both iOS and Google Android share data with Apple/Google, on average every 4.5 minutes” “when a SIM is inserted both iOS and Google Android send details to Apple/Google. Users have no way of escaping this, and to date there are few, if any, realistic alternatives to protect against this information sharing.”. "Mobile Handset Privacy: Measuring The Data iOS and Android Send to Apple And Google" – Professor Doug Leith at School of Computer Science and Statistics at Trinity College Dublin – 2021 https://www.scss.tcd.ie/doug.leith/apple_google.pdf
 
-**Pressure on Manufacturers**
+## Pressure on handset Manufacturers
 
   - Google does not want any other version of Android on the market. The Android anti-fragmentation agreement called “MADA” – that is effective worldwide except in the EU – prohibits smartphone manufacturers from offering non-Google Android smartphones as long as they already sell Google Android smartphones.
   - Likely: informal pressure “to stay friends” and cooperative
