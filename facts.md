@@ -5,8 +5,8 @@
 Android (AOSP) is an open source operating system maintained by Google. In its commercial version, that ships in 80% of the smartphones on the market, “Google Android” includes a proprietary layer called “Google Play Services”.
 
 In the following, we refer to:
-- “Android” when talking about the core open source Android OS (AOSP
-- “Google Android” when talking about the commercial version of Android that ships in most Android smartphones.
+- “Android” when referring to the core open source Android OS (AOSP
+- “Google Android” when referring to the commercial version of Android that ships in most Android smartphones.
 
 ## What we found in the Android operating system
 
