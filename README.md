@@ -1,6 +1,4 @@
-# some-facts-about-the-Google-Android-operating-system-and-personal-data-collection.
-
-Google abuse of dominant position: some facts about the Google Android operating system and personal data collection.
+# Google abuse of dominant position: some facts about the Google Android operating system and personal data collection.
 
 This is the first draft of a collection of facts about what happens in the Google Android operating system in term of permanent personal data collection. This has been found while working on /e/OS (https://e.foundation) the mobile OS in which we actually try to address those issues. 
 
